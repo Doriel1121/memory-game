@@ -64,7 +64,7 @@ h2 {
 
 .card:hover {
   transition: transform 0.5s;
-  transform: scale(1.2, 1.2);
+  transform: scale(1.1, 1.1);
 }
 
 .card-face {
@@ -128,7 +128,7 @@ h2 {
   .cardParentDiv {
     padding-left: 20px;
     padding-right: 20px;
-    grid-gap: 10px
+    grid-gap: 20px
   }
 
   .frontCard {
