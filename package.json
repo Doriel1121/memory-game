@@ -2,7 +2,7 @@
   "name": "memorygame",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Doriel1121.github.io/memory-game",
+  "homepage": "http://Doriel1121.github.io/new-memory-game",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
